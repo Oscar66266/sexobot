@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['15108170058', 'Ton', true],
+  ['5219812796095', 'Ton', true],
   ['']
 ] //Numeros de owner 
 
